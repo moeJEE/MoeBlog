@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "id": "483SS5",
+      "title": "Unlocking Creativity: Strategies for Overcoming Creative Blocks",
+      "author": "Emily Brown",
+      "imageUrl": "https://loremflickr.com/800/600",
+      "body": "Creativity is a precious resource, yet we all encounter periods of creative blockage. In this blog post, we share practical strategies for overcoming creative hurdles and tapping into your inner creativity. Whether you're a writer, artist, or entrepreneur, these tips will help you unlock your creative potential and bring your ideas to life.",
+      "tags": [
+        "Creativity",
+        "Inspiration",
+        "Productivity"
+      ]
+    },
+    {
+      "id": "483DDD5",
+      "title": "The Power of Color: Harnessing Emotional Impact in Design",
+      "author": "Jessica Adams",
+      "imageUrl": "https://source.unsplash.com/800x600/?nature,water",
+      "body": "Color is a powerful tool in the designer's arsenal, capable of evoking emotions, conveying messages, and influencing perceptions. In this blog post, we delve into the psychology of color, examining how different hues can elicit specific responses from viewers. Learn how to wield color effectively to create memorable and impactful designs.",
+      "tags": [
+        "Design",
+        "Color Theory",
+        "Psychology"
+      ]
+    },
+    {
+      "id": "dsdsdsds",
+      "title": "The Rise of Augmented Reality: Transforming User Experiences",
+      "author": "David Chen",
+      "imageUrl": "https://source.unsplash.com/random/800x600",
+      "body": "Augmented Reality (AR) is revolutionizing the way we interact with digital content, blurring the lines between the virtual and physical worlds. In this blog post, we explore the applications of AR across various industries, from gaming and entertainment to education and healthcare. Join us as we delve into the exciting possibilities of augmented reality and its potential to reshape user experiences.",
+      "tags": [
+        "Augmented Reality",
+        "Technology",
+        "User Experience"
+      ]
+    }
+  ]
+}
